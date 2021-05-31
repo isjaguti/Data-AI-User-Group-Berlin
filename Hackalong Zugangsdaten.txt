@@ -1,0 +1,10 @@
+Blob-Container mit Flugdaten
+https://flightadvisorstorage.blob.core.windows.net/
+Key:
+wfIT2M6cBSiyr8wK4THhx2JtkyIW/lAWoWjDo0jT7dgFlQLi9tZm1gJerClIYkyRVXzujRELGC4ePusfZtmHIQ==
+ 
+Azure-DB
+Server Name:  flightadvisorsqlserver.database.windows.net
+Datenbank:    flightadvisorsqldb
+User:         greg
+Password:     Passw0rd!!
